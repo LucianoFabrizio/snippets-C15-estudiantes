@@ -1,0 +1,10 @@
+[
+    "esto es",
+    "un arreglo",
+    "que cumple con",
+    "la sintaxis de JSON",
+    1,
+    true,
+    false,
+    null
+]

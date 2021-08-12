@@ -1,0 +1,11 @@
+[
+  { "titulo": "Módulo 1", "estado": "terminada" },
+  { "titulo": "Armar appNotas 1.0", "estado": "terminada" },
+  { "titulo": "Primer Intervalo", "estado": "pendiente" },
+  { "titulo": "Armar appNotas 2.0", "estado": "pendiente" },
+  { "titulo": "Segundo Intervalo", "estado": "pendiente" },
+  { "titulo": "Módulo 2", "estado": "pendiente" },
+  { "titulo": "esta es mi nota nueva de hoy hoy hoy", "estado": "pendiente" },
+  { "titulo": "esto es una prueba", "estado": "pendiente" },
+  { "titulo": "esto es una prueba2", "estado": "pendiente" }
+]

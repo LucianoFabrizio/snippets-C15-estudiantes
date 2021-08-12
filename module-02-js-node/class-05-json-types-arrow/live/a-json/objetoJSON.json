@@ -1,0 +1,8 @@
+{
+    "esto" : "es la representación de un un objeto en formato JSON",
+    "puede" : [ "tener", "arreglos", "dentro", "también", "números" ],
+    "como": 1000,
+    "valorNulo": null,
+    "yBooleanos": false,
+    "oComo": true
+}

@@ -1,0 +1,1 @@
+# Práctica de Módulos y Objetos literales en Node/JS. Este archivo es parte de una serie de cinco archivos (pulga.js, perro.js, ladrar.js, gruñir.js, estornudar.js) que deben guardarse dentro de una carpeta única, de nombre "perroModularizado", por ejemplo.
