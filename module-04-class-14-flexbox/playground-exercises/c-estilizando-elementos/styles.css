@@ -1,0 +1,11 @@
+/* El primer display: flex sitúa el logo junto a los enlaces */
+.nav-bar {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* El segundo display: flex sitúa los enlaces en un solo renglón */
+.enlaces {
+  display: flex;
+  align-items: center;
+}

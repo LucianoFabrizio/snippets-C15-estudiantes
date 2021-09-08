@@ -1,0 +1,12 @@
+.nav-bar {
+    display: flex;
+    /* Fuera de Playground */
+    list-style: none;
+}
+
+/* Fuera de Playground */
+a {
+    text-decoration: none;
+    margin: 0 0.1rem;
+}
+

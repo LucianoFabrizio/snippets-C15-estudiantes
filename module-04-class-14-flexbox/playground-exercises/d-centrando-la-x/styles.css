@@ -1,0 +1,7 @@
+.juego-dardos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* fuera de Playground */
+  height: 100vh;
+}
